@@ -1,0 +1,5 @@
+{
+  "name": "alpine-snow-theme",
+  "owner": { "name": "Liffdog" },
+  "plugins": [{ "name": "alpine-snow", "source": "./" }]
+}
